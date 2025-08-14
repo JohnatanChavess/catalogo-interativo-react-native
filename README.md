@@ -1,50 +1,71 @@
-# Welcome to your Expo app 👋
+# Catálogo Interativo Mobile (UniFECAF)
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+Projeto desenvolvido para a disciplina de **Mobile Development**. O objetivo foi construir um aplicativo de catálogo de produtos para uma loja online, utilizando React Native e consumindo uma API REST pública.
 
-## Get started
+---
 
-1. Install dependencies
+## 📱 Telas do Aplicativo
 
-   ```bash
-   npm install
-   ```
+Aqui estão algumas das principais telas e funcionalidades do aplicativo.
 
-2. Start the app
+| Login | Catálogo | Detalhes do Produto |
+| :---: | :---: | :---: |
+| <img src="https://github.com/user-attachments/assets/15052c12-62ee-4aa5-a98f-2cbdd9f7d248
+" width="250"> | <img src="https://github.com/user-attachments/assets/19603ec1-c29b-4fdd-bf29-dca35c2625ef" width="250"> | <img src="https://github.com/user-attachments/assets/d33fd381-f2c7-482b-9880-0f440a967053" width="250"> |
 
-   ```bash
-   npx expo start
-   ```
+---
 
-In the output, you'll find options to open the app in a
+## ✨ Funcionalidades
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+- [x] **Tela de Login:** Validação de campos e simulação de autenticação.
+- [x] **Navegação Segura:** Acesso ao conteúdo principal do app somente após login.
+- [x] **Catálogo de Produtos:**
+    - [x] Navegação por abas para categorias (Masculino e Feminino).
+    - [x] Listagem de produtos em um grid de duas colunas.
+    - [x] Agrupamento visual dos produtos por subcategoria (ex: "MENS SHIRTS").
+- [x] **Detalhes do Produto:**
+    - [x] Exibição de informações detalhadas (nome, descrição, preço, etc.).
+    - [x] Galeria de imagens interativa e deslizável.
+- [x] **Logout Funcional:** Botão para encerrar a sessão de forma segura.
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+---
 
-## Get a fresh project
+## 🛠️ Tecnologias Utilizadas
 
-When you're ready, run:
+- **React Native (com Expo)**
+- **JavaScript**
+- **Redux Toolkit**
+- **Axios**
+- **React Navigation**
+- **Expo Google Fonts**
 
-```bash
-npm run reset-project
-```
+---
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+## 🚀 Como Executar o Projeto
 
-## Learn more
+1.  **Clone o repositório:**
+    ```bash
+    git clone [https://github.com/JohnatanChavess/catalogo-interativo-react-native.git](https://github.com/JohnatanChavess/catalogo-interativo-react-native.git)
+    ```
 
-To learn more about developing your project with Expo, look at the following resources:
+2.  **Acesse a pasta do projeto:**
+    ```bash
+    cd catalogo-interativo-react-native
+    ```
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+3.  **Instale as dependências:**
+    ```bash
+    npm install
+    ```
 
-## Join the community
+4.  **Inicie o servidor de desenvolvimento do Expo:**
+    ```bash
+    npx expo start
+    ```
+    *Após iniciar, escaneie o QR Code com o aplicativo Expo Go no seu celular.*
 
-Join our community of developers creating universal apps.
+---
 
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+## 👨‍💻 Autor
+
+**Johnatan Chaves**
