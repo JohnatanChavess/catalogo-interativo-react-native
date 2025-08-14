@@ -1,10 +1,10 @@
-# Catálogo Interativo Mobile (UniFECAF)
+# Catálogo Interativo Mobile 
 
 Projeto desenvolvido para a disciplina de **Mobile Development**. O objetivo foi construir um aplicativo de catálogo de produtos para uma loja online, utilizando React Native e consumindo uma API REST pública.
 
 ---
 
-## 📱 Telas do Aplicativo
+## Telas do Aplicativo
 
 Aqui estão algumas das principais telas e funcionalidades do aplicativo.
 
@@ -19,22 +19,22 @@ Aqui estão algumas das principais telas e funcionalidades do aplicativo.
 
 ---
 
-## ✨ Funcionalidades
+## Funcionalidades
 
-- [x] **Tela de Login:** Validação de campos e simulação de autenticação.
-- [x] **Navegação Segura:** Acesso ao conteúdo principal do app somente após login.
-- [x] **Catálogo de Produtos:**
-    - [x] Navegação por abas para categorias (Masculino e Feminino).
-    - [x] Listagem de produtos em um grid de duas colunas.
-    - [x] Agrupamento visual dos produtos por subcategoria (ex: "MENS SHIRTS").
-- [x] **Detalhes do Produto:**
-    - [x] Exibição de informações detalhadas (nome, descrição, preço, etc.).
-    - [x] Galeria de imagens interativa e deslizável.
-- [x] **Logout Funcional:** Botão para encerrar a sessão de forma segura.
+- **Tela de Login:** Validação de campos e simulação de autenticação.
+- **Navegação Segura:** Acesso ao conteúdo principal do app somente após login.
+- **Catálogo de Produtos:**
+    - Navegação por abas para categorias (Masculino e Feminino).
+    - Listagem de produtos em um grid de duas colunas.
+    - Agrupamento visual dos produtos por subcategoria (ex: "MENS SHIRTS").
+- **Detalhes do Produto:**
+    - Exibição de informações detalhadas (nome, descrição, preço, etc.).
+    - Galeria de imagens interativa e deslizável.
+- **Logout Funcional:** Botão para encerrar a sessão de forma segura.
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 - **React Native (com Expo)**
 - **JavaScript**
@@ -45,7 +45,7 @@ Aqui estão algumas das principais telas e funcionalidades do aplicativo.
 
 ---
 
-## 🚀 Como Executar o Projeto
+## Como Executar o Projeto
 
 1.  **Clone o repositório:**
     ```bash
@@ -70,6 +70,3 @@ Aqui estão algumas das principais telas e funcionalidades do aplicativo.
 
 ---
 
-## 👨‍💻 Autor
-
-**Johnatan Chaves**
