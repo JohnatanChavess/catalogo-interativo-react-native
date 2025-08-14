@@ -8,9 +8,14 @@ Projeto desenvolvido para a disciplina de **Mobile Development**. O objetivo foi
 
 Aqui estão algumas das principais telas e funcionalidades do aplicativo.
 
-| Login | Catálogo | Detalhes do Produto |
-| :---: | :---: | :---: |
-| <img src="https://github.com/user-attachments/assets/15052c12-62ee-4aa5-a98f-2cbdd9f7d248"> | <img src="https://github.com/user-attachments/assets/19603ec1-c29b-4fdd-bf29-dca35c2625ef" width="250"> | <img src="https://github.com/user-attachments/assets/d33fd381-f2c7-482b-9880-0f440a967053" width="250"> |
+### Tela de Login
+<img src="https://github.com/user-attachments/assets/15052c12-62ee-4aa5-a98f-2cbdd9f7d248" width="300">
+
+### Tela de Catálogo
+<img src="https://github.com/user-attachments/assets/19603ec1-c29b-4fdd-bf29-dca35c2625ef" width="300">
+
+### Tela de Detalhes do Produto
+<img src="https://github.com/user-attachments/assets/d33fd381-f2c7-482b-9880-0f440a967053" width="300">
 
 ---
 
