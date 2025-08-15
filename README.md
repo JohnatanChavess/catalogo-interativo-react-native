@@ -47,9 +47,11 @@ Aqui estão algumas das principais telas e funcionalidades do aplicativo.
 
 ## Como Executar o Projeto
 
+Para rodar este projeto localmente, siga os passos abaixo:
+
 1.  **Clone o repositório:**
     ```bash
-    git clone [https://github.com/JohnatanChavess/catalogo-interativo-react-native.git](https://github.com/JohnatanChavess/catalogo-interativo-react-native.git)
+    git clone https://github.com/JohnatanChavess/catalogo-interativo-react-native.git
     ```
 
 2.  **Acesse a pasta do projeto:**
@@ -68,5 +70,9 @@ Aqui estão algumas das principais telas e funcionalidades do aplicativo.
     ```
     *Após iniciar, escaneie o QR Code com o aplicativo Expo Go no seu celular.*
 
----
+    > **Observação Importante:**
+    > Se o seu computador estiver conectado via cabo de rede e o seu celular no Wi-Fi, a conexão padrão pode falhar (erro de "timed out"). Nesse caso, inicie o projeto com o comando abaixo para forçar uma conexão via túnel:
+    > ```bash
+    > npx expo start --tunnel
+    > ```
 
